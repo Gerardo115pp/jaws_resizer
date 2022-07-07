@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+Jaws/__init__.py
+jaws_optimizer.egg-info/PKG-INFO
+jaws_optimizer.egg-info/SOURCES.txt
+jaws_optimizer.egg-info/dependency_links.txt
+jaws_optimizer.egg-info/entry_points.txt
+jaws_optimizer.egg-info/requires.txt
+jaws_optimizer.egg-info/top_level.txt

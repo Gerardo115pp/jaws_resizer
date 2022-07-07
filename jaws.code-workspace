@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "./Prototypes",
+            "name": "Prototypes",
+        },
+        {
+            "path": "./images_test",
+            "name": "original_images" 
+        },
+        {
+            "name": "app_workspace",
+            "path": "./app_workspace"
+        }
+    ],
+    "settings": {}
+}

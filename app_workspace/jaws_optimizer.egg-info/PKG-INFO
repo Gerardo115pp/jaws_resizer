@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: jaws-optimizer
+Version: 0.2
+Summary: a cli tool to create images srcsets
+Author: LiberyLab
+Author-email: contacto@libery-labs.com
+Maintainer: Gerardo Rodriguez Sanchez
+Maintainer-email: gerardo.rodriguez@liberylabs.com
+License: LGPL-2.1-only
