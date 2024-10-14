@@ -1,1 +1,3 @@
 images_test/
+/**/__pycache__/
+*.code-workspace
