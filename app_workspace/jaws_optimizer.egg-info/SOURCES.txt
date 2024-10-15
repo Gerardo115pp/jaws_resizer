@@ -1,6 +1,12 @@
 pyproject.toml
 setup.py
 Jaws/__init__.py
+Jaws/agents/__init__.py
+Jaws/agents/optimizers.py
+Jaws/helpers/__init__.py
+Jaws/helpers/file_sniffers.py
+Jaws/helpers/fs_utils.py
+Jaws/helpers/human_readable.py
 jaws_optimizer.egg-info/PKG-INFO
 jaws_optimizer.egg-info/SOURCES.txt
 jaws_optimizer.egg-info/dependency_links.txt

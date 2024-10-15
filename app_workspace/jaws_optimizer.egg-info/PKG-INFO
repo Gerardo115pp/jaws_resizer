@@ -7,3 +7,5 @@ Author-email: contacto@libery-labs.com
 Maintainer: Gerardo Rodriguez Sanchez
 Maintainer-email: gerardo.rodriguez@liberylabs.com
 License: LGPL-2.1-only
+Requires-Dist: Pillow
+Requires-Dist: click
